@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Schritte im Sand
+
+This log tracks the cryptographic history and versioning for the song **Schritte im Sand** (schritte-im-sand).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T13:55:51.173052 | `v1` | `c1712fec29b64f2c750d29c7200825844daffb002a0f01052d7248dd6f3ca806` | `f4d2864bd1e5c9619f2b52967a068e24c644c3690b52d78571ab1ceae0f16dbc` | `2026-06-28_schritte-im-sand-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
