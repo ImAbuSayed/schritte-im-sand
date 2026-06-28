@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/schritte-im-sand/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Schritte im Sand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schritte-im-sand/) |
+| **Get License** | [License this song: Schritte im Sand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schritte-im-sand/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schritte im Sand, dein Duft in der Nacht
+> Guck, was dein Lächeln schon wieder mit mir macht
+> Midnight-Drive, Baby, allein in der City
+> Alles auf Slow-Mo, damn girl, you're pretty
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
